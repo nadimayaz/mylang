@@ -1,7 +1,7 @@
 print("nadim");
 v=scan(int);
 print("ayaz");                             
-#nadim ayaz kishanganj
+#nadim AYAZ kishanganj
 print(v);
 println("risk");
 r=scan(string);
