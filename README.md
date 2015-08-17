@@ -2,7 +2,7 @@
 ReadMe
 ======
 
-This is a toy language, designed using flex and bison.
+This is a toy language, designed using C++11
 
 Here is an example:
 
