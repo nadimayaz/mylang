@@ -1,0 +1,8 @@
+print("nadim");
+v=scan(int);
+print("ayaz");                             
+#Nadim ayaz kishanganj
+print(v);
+println("risk");
+r=scan(string);
+println(r);
